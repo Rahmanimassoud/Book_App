@@ -1,0 +1,12 @@
+
+#sidebar {
+    width: 150px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: baseline;
+    padding-left: 20px;
+    gap: 4px;
+    background-color: rgb(147, 194, 194);
+}
